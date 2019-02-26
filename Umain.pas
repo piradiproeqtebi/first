@@ -79,7 +79,9 @@ implementation
 
 procedure TForm1.Button2Click(Sender: TObject);
 begin
+	
   acc_name.FullExpand;
+  
 end;
 
 procedure TForm1.Button3Click(Sender: TObject);
